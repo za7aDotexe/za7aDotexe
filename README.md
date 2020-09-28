@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on personal portfolio
 - 🌱 I’m currently learning Django/React
 - 👯 I’m looking to collaborate on Web Dev
 - 🤔 I’m looking for help with  
