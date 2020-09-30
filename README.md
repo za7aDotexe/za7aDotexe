@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻Programmer "$$$$ 🚀WebLifeStyle $$$$"
 
-[![za7aDotexe.](./github-banner@2x.jpg)](https://za7a.co)
+[![za7aDotexe.](./github-banner.svg)](https://za7a.co)
 
 - 🔭 I’m currently working on personal portfolio
 - 🌱 I’m currently learning Django/React
