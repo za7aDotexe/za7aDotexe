@@ -1,8 +1,6 @@
-## Hi there, it's me Rabie ZAHA AKA : Za7aDotexe 🤙
-
-### 👨🏻‍💻Programmer "$$$$ 🚀WebLifeStyle $$$$"
-
 [![za7aDotexe.](./github-banner.svg)](https://za7a.co)
+
+## 👨🏻‍💻Software Engineer "$$$$ 🚀WebLifeStyle $$$$" 🤙
 
 - 🔭 I’m currently working on personal portfolio
 - 🌱 I’m currently learning Django/React
