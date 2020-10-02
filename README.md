@@ -1,7 +1,5 @@
 [![za7aDotexe.](./github-banner.svg)](https://za7a.co)
 
-## 👨🏻‍💻Software Engineer "$$$$ 🚀WebLifeStyle $$$$" 🤙
-
 - 🔭 I’m currently working on personal portfolio
 - 🌱 I’m currently learning Django/React
 - 👯 I’m looking to collaborate on Web Dev
